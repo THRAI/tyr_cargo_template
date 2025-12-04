@@ -1,0 +1,3 @@
+[template]
+# copy cliff.toml as is without substitution
+exclude = ["cliff.toml"]
